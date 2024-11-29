@@ -23,11 +23,11 @@ This is a simple Horoscope Generator web application. Users can enter their birt
 
 ### Screenshot
 
-![Horoscope Generator Screenshot](screenshot.png)
+![Horoscope Generator Screenshot](Screenshot.png)
 
 ### Links
 
-- [Live Site](https://your-live-site-url.com)
+- [Live Site](https://horoscope-generator-dev.vercel.app/)
 - [Repository](https://github.com/Pushkar111/horoscope-generator)
 
 ## Getting Started
