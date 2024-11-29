@@ -4,22 +4,22 @@ This is a simple Horoscope Generator web application. Users can enter their birt
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Features](#features)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Built With](#built-with)
-- [Author](#author)
+-   [Overview](#overview)
+    -   [Features](#features)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [Getting Started](#getting-started)
+    -   [Installation](#installation)
+    -   [Usage](#usage)
+-   [Built With](#built-with)
+-   [Author](#author)
 
 ## Overview
 
 ### Features
 
-- Enter your birth month to get your zodiac sign and a random horoscope.
-- Responsive design for both desktop and mobile devices.
+-   Enter your birth month to get your zodiac sign and a random horoscope.
+-   Responsive design for both desktop and mobile devices.
 
 ### Screenshot
 
@@ -27,19 +27,24 @@ This is a simple Horoscope Generator web application. Users can enter their birt
 
 ### Links
 
-- [Live Site](https://horoscope-generator-dev.vercel.app/)
-- [Repository](https://github.com/Pushkar111/horoscope-generator)
+-   [Live Site](https://horoscope-generator-dev.vercel.app/)
+-   [Repository](https://github.com/Pushkar111/horoscope-generator)
 
 ## Getting Started
 
 ### Installation
 
 1. Clone the repository:
-   ```sh
-    git clone https://github.com/Pushkar111/horoscope-generator.git
+
+    ```sh
+     git clone https://github.com/Pushkar111/horoscope-generator.git
+
+    ```
 
 2. Navigate to the project directory:
+    ```sh
     cd horoscope-generator
+    ```
 
 ### Usage
 
@@ -47,11 +52,11 @@ This is a simple Horoscope Generator web application. Users can enter their birt
 
 ## Built With
 
-- HTML
-- CSS
-- JavaScript
+-   HTML
+-   CSS
+-   JavaScript
 
 ## Author
 
-- GitHub - [@Pushkar111](https://github.com/Pushkar111)
-- LinkedIn - [pushkarmodi111](https://www.linkedin.com/in/pushkarmodi111/)
+-   GitHub - [@Pushkar111](https://github.com/Pushkar111)
+-   LinkedIn - [pushkarmodi111](https://www.linkedin.com/in/pushkarmodi111/)
