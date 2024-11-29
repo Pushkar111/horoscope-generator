@@ -23,7 +23,7 @@ This is a simple Horoscope Generator web application. Users can enter their birt
 
 ### Screenshot
 
-![Horoscope Generator Screenshot](Screenshot.png)
+![Horoscope Generator Screenshot](view.png)
 
 ### Links
 
